@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (manns01_LAwN) (3)" breakable="true" interior="1" alpha="255" model="5716" doublesided="false" scale="1" dimension="0" posX="1017.8" posY="-1240.5" posZ="950.29999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (archshop07_laW02) (2)" breakable="true" interior="1" alpha="255" model="5737" doublesided="false" scale="1" dimension="0" posX="995.20001" posY="-1261.2" posZ="943.70001" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (manns01_LAwN) (4)" breakable="true" interior="1" alpha="255" model="5716" doublesided="false" scale="1" dimension="0" posX="1008" posY="-1279.09998" posZ="950.29999" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (archshop07_laW02) (3)" breakable="true" interior="1" alpha="255" model="5737" doublesided="false" scale="1" dimension="0" posX="1017.79999" posY="-1259.69995" posZ="954.79999" rotX="180" rotY="0" rotZ="180"></object>
+    <object id="object (manns01_LAwN) (5)" breakable="true" interior="1" alpha="255" model="5716" doublesided="false" scale="1" dimension="0" posX="1017.8" posY="-1279.1" posZ="950.29999" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (manns01_LAwN) (6)" breakable="true" interior="1" alpha="255" model="5716" doublesided="false" scale="1" dimension="0" posX="1027.6" posY="-1240.5" posZ="950.29999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (archshop07_laW02) (4)" breakable="true" interior="1" alpha="255" model="5737" doublesided="false" scale="1" dimension="0" posX="1039.9" posY="-1261.2" posZ="943.70001" rotX="0" rotY="0" rotZ="359.995"></object>
+    <object id="object (sunset22_LAwN) (1)" breakable="true" interior="1" alpha="255" model="5896" doublesided="false" scale="1" dimension="0" posX="1015.90002" posY="-1256.5" posZ="947.29999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cjgaragedoor) (1)" breakable="true" interior="1" alpha="255" model="17951" doublesided="false" scale="1" dimension="0" posX="1027.4" posY="-1257" posZ="942.40002" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_petroldoor) (1)" breakable="true" interior="1" alpha="255" model="2911" doublesided="false" scale="1" dimension="0" posX="1027.42" posY="-1262.6" posZ="940.59998" rotX="0" rotY="0" rotZ="90"></object>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="1" dimension="0" alpha="255" posX="1026.2" posY="-1262.1" posZ="941.59998" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (3)" type="cylinder" color="#0000ffff" size="1" interior="1" dimension="0" alpha="255" posX="1021" posY="-1257.1" posZ="941.59998" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

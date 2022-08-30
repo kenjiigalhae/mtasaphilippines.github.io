@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (int2labigtwo01) (2)" breakable="true" interior="2" collisions="true" alpha="255" model="14706" doublesided="false" scale="1" dimension="0" posX="-284.90039" posY="-617.90039" posZ="840" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgwstnewall6904) (2)" breakable="true" interior="2" collisions="true" alpha="255" model="7921" doublesided="false" scale="2" dimension="0" posX="-294.40039" posY="-617.46777" posZ="841.90002" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (Gen_doorEXT07) (2)" breakable="true" interior="2" collisions="true" alpha="255" model="1505" doublesided="false" scale="1" dimension="0" posX="-295.5" posY="-611.70001" posZ="840.40002" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (HOTEL_S_BEDSET_3) (1)" breakable="true" interior="2" collisions="true" alpha="255" model="2566" doublesided="false" scale="1" dimension="0" posX="-280.70001" posY="-610.89001" posZ="841" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (int2lasmone02) (1)" breakable="true" interior="2" collisions="true" alpha="255" model="14720" doublesided="false" scale="1" dimension="0" posX="-295" posY="-614" posZ="840.40002" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int2lasmone01) (1)" breakable="true" interior="2" collisions="true" alpha="255" model="14719" doublesided="false" scale="1" dimension="0" posX="-290.5" posY="-609.59998" posZ="842.20001" rotX="0" rotY="0" rotZ="182"></object>
+    <object id="object (TV_UNIT_1) (1)" breakable="true" interior="2" alpha="255" model="2296" doublesided="false" scale="1" dimension="0" posX="-288.10001" posY="-610.40002" posZ="840.40002" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_couch02) (1)" breakable="true" interior="2" alpha="255" model="1703" doublesided="false" scale="1" dimension="0" posX="-286.39999" posY="-614.90002" posZ="840.40002" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (Hotel_dresser_8) (2)" breakable="true" interior="2" alpha="255" model="2576" doublesided="false" scale="1" dimension="0" posX="-285.10001" posY="-609.90002" posZ="840.40002" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE6_DESK_1) (1)" breakable="true" interior="2" alpha="255" model="2185" doublesided="false" scale="1" dimension="0" posX="-285" posY="-615" posZ="840.40002" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE_CHAIR) (1)" breakable="true" interior="2" alpha="255" model="1806" doublesided="false" scale="1" dimension="0" posX="-284" posY="-613.90002" posZ="840.40002" rotX="0" rotY="0" rotZ="180"></object>
+    <marker id="marker (cylinder) (3)" type="cylinder" color="#0000ffff" size="1" interior="18" dimension="0" alpha="255" posX="1728.1" posY="-1639" posZ="20.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (4)" type="cylinder" color="#0000ffff" size="1" interior="2" dimension="0" alpha="255" posX="-294.5" posY="-611.09998" posZ="841.40002" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

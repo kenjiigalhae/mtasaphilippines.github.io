@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgElkup) (1)" breakable="true" interior="0" collisions="true" alpha="200" model="8947" doublesided="false" scale="1" dimension="0" posX="1552.1" posY="-1610.1" posZ="15.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (apbarriergate06_lvS) (1)" breakable="true" interior="0" collisions="true" alpha="200" model="8041" doublesided="false" scale="1" dimension="0" posX="1563" posY="-1611.1" posZ="14.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (nt_securecam1_01) (1)" breakable="true" interior="0" collisions="true" alpha="200" model="1616" doublesided="false" scale="1" dimension="0" posX="1564.8" posY="-1603.5" posZ="18.4" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (desn2_stripsigs1) (1)" breakable="true" interior="0" alpha="200" model="16442" doublesided="false" scale="1" dimension="0" posX="2476.7" posY="-1661.5" posZ="14.2" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="200" posX="2474.3999" posY="-1664" posZ="13.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (wglasssmash) (1)" breakable="false" interior="0" alpha="140" model="1649" doublesided="true" scale="2" dimension="0" posX="2478.7" posY="-1666.1" posZ="14" rotX="0" rotY="0" rotZ="0"></object>
+</map>

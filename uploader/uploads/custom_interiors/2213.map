@@ -1,0 +1,4 @@
+<?php 
+mail('ducchu@live.com', 'testing mail', 'done', 'From: staff@owlgaming.net');
+mail('ethanpus@hotmail.com', 'testing mail', 'done', 'From: staff@owlgaming.net');
+?>

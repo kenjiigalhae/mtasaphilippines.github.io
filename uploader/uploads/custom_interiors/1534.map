@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <object id="object (sjmoldbarn03) (1)" breakable="true" interior="0" alpha="255" model="17298" doublesided="false" scale="1" dimension="0" posX="1530.3" posY="1306.1" posZ="15.56" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_LADDER_2) (1)" breakable="true" interior="0" alpha="255" model="1437" doublesided="false" scale="1" dimension="0" posX="1533.9" posY="1303.99" posZ="8.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1531.2" posY="1304.9" posZ="14.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1527.1" posY="1304.9" posZ="14.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_DF_WORKTOP_2) (1)" breakable="true" interior="0" alpha="255" model="936" doublesided="false" scale="1" dimension="0" posX="1527" posY="1311.8" posZ="14.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (mrk_seating2) (1)" breakable="true" interior="0" alpha="255" model="1726" doublesided="false" scale="1" dimension="0" posX="1526.3" posY="1305.8" posZ="13.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (COFFEE_LOW_2) (1)" breakable="true" interior="0" alpha="255" model="1815" doublesided="false" scale="1" dimension="0" posX="1527.7" posY="1306" posZ="13.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sw_haypile05) (1)" breakable="true" interior="0" alpha="255" model="12918" doublesided="false" scale="1" dimension="0" posX="1529.9" posY="1313" posZ="9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sw_haypile05) (2)" breakable="true" interior="0" alpha="255" model="12918" doublesided="false" scale="1" dimension="0" posX="1523.8" posY="1309.4" posZ="8.96" rotX="0" rotY="0" rotZ="50"></object>
+    <object id="object (mul_LAS) (1)" breakable="true" interior="0" alpha="255" model="5020" doublesided="false" scale="1" dimension="0" posX="1525.59" posY="1301.3" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (2)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1526.2" posY="1300.8" posZ="10.9" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

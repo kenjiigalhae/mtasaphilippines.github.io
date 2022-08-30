@@ -1,0 +1,14 @@
+[18-Dec-2014 09:56:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not connect to 91.121.137.31:22005' in /home/maximeowl/public_html/classes/mta_sdk.php:147
+Stack trace:
+#0 /home/maximeowl/public_html/classes/mta_sdk.php(78): mta->do_post_request('91.121.137.31', '22005', '/usercontrolpan...', '')
+#1 /home/maximeowl/public_html/classes/mta_sdk.php(258): mta->callFunction('usercontrolpane...', 'getServerStats', Array)
+#2 /home/maximeowl/public_html/ajax/ajax_server_stats.php(13): Resource->call('getServerStats')
+#3 {main}
+  thrown in /home/maximeowl/public_html/classes/mta_sdk.php on line 147
+[18-Dec-2014 09:57:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to send request to 91.121.137.31:22005' in /home/maximeowl/public_html/classes/mta_sdk.php:165
+Stack trace:
+#0 /home/maximeowl/public_html/classes/mta_sdk.php(78): mta->do_post_request('91.121.137.31', '22005', '/usercontrolpan...', '')
+#1 /home/maximeowl/public_html/classes/mta_sdk.php(258): mta->callFunction('usercontrolpane...', 'getServerStats', Array)
+#2 /home/maximeowl/public_html/ajax/ajax_server_stats.php(13): Resource->call('getServerStats')
+#3 {main}
+  thrown in /home/maximeowl/public_html/classes/mta_sdk.php on line 165

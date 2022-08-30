@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="object (cw_combbarn) (1)" breakable="true" interior="0" alpha="255" model="17324" doublesided="false" scale="1" dimension="0" posX="1939.6" posY="-2448.5" posZ="12.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aprtmnts01_sfe) (1)" breakable="true" interior="0" alpha="255" model="10060" doublesided="false" scale="1" dimension="0" posX="1933.9" posY="-2448" posZ="-9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (warehouse_door2b) (1)" breakable="true" interior="0" alpha="255" model="3037" doublesided="false" scale="1" dimension="0" posX="1944.3" posY="-2460.3999" posZ="14.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door2b) (2)" breakable="true" interior="0" alpha="255" model="3037" doublesided="false" scale="1" dimension="0" posX="1934.1" posY="-2460.3999" posZ="14.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door2b) (3)" breakable="true" interior="0" alpha="255" model="3037" doublesided="false" scale="1" dimension="0" posX="1944.3" posY="-2460.3999" posZ="19.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door2b) (4)" breakable="true" interior="0" alpha="255" model="3037" doublesided="false" scale="1" dimension="0" posX="1934.1" posY="-2460.3999" posZ="19.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (a51_jetdoor) (1)" breakable="true" interior="0" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1946.2" posY="-2436.7" posZ="16.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (2)" breakable="true" interior="0" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1937.2" posY="-2436.7" posZ="16.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (3)" breakable="true" interior="0" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1946.2" posY="-2445.7" posZ="16.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (4)" breakable="true" interior="0" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1937.2002" posY="-2445.7" posZ="16.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_LADDER_2) (1)" breakable="true" interior="0" alpha="255" model="1437" doublesided="false" scale="1" dimension="0" posX="1944.5" posY="-2451.1001" posZ="12.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1941.6" posY="-2450.1001" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1933.4" posY="-2450.1001" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1937.5" posY="-2450.0996" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1944.3" posY="-2459.7" posZ="13.7" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

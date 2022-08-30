@@ -1,0 +1,34 @@
+<map edf:definitions="editor_main">
+    <object id="object (int2lasmone04) (1)" interior="1" alpha="255" doublesided="false" model="14718" scale="1" dimension="0" posX="240.2" posY="1280.2" posZ="1139" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Gen_doorEXT03) (1)" interior="1" alpha="255" doublesided="false" model="1498" scale="1" dimension="0" posX="242.45" posY="1275.3" posZ="1139" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (GENERATOR_LOW) (1)" interior="1" alpha="255" doublesided="false" model="943" scale="1" dimension="0" posX="237.5" posY="1277.1" posZ="1139.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LOW_BED_2) (1)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="236.10001" posY="1275.7" posZ="1140.3" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (LOW_BED_2) (2)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="236.10001" posY="1272.9" posZ="1140.3" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (LOW_BED_2) (3)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="236.10001" posY="1272.9" posZ="1142.3" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (LOW_BED_2) (4)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="236.10001" posY="1275.7" posZ="1142.3" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (LOW_BED_2) (5)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="239.7" posY="1274.9" posZ="1140.3" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (LOW_BED_2) (6)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="239.7" posY="1274.9" posZ="1142.3" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (LOW_BED_2) (7)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="235.5" posY="1279.3" posZ="1140.3" rotX="0" rotY="90" rotZ="270"></object>
+    <object id="object (LOW_BED_2) (8)" interior="1" alpha="255" doublesided="false" model="1793" scale="1" dimension="0" posX="235.5" posY="1279.3" posZ="1142.3" rotX="0" rotY="90" rotZ="270"></object>
+    <object id="object (countS_lights01) (1)" interior="1" alpha="255" doublesided="false" model="18608" scale="1" dimension="0" posX="244.60001" posY="1288.8" posZ="1143.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (countS_lights01) (2)" interior="1" alpha="255" doublesided="false" model="18608" scale="1" dimension="0" posX="244.60001" posY="1284.9" posZ="1143.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (countS_lights01) (3)" interior="1" alpha="255" doublesided="false" model="18608" scale="1" dimension="0" posX="250.7" posY="1283.8" posZ="1143.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (countS_lights01) (4)" interior="1" alpha="255" doublesided="false" model="18608" scale="1" dimension="0" posX="250.7" posY="1287" posZ="1143.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (countS_lights01) (5)" interior="1" alpha="255" doublesided="false" model="18608" scale="1" dimension="0" posX="238.89999" posY="1288.5" posZ="1143" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_SMOKE_MACH) (1)" interior="1" alpha="255" doublesided="false" model="2780" scale="1" dimension="0" posX="245.3" posY="1277.9" posZ="1142.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Gen_doorINT03) (1)" interior="1" alpha="255" doublesided="false" model="1494" scale="1" dimension="0" posX="241.14" posY="1281.121" posZ="1139" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (Gen_doorINT03) (3)" interior="1" alpha="255" doublesided="false" model="1494" scale="1" dimension="0" posX="239.13965" posY="1275.6162" posZ="1139" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_F_WOOD_3) (1)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="238.3" posY="1282.7" posZ="1140.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (2)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="238.3" posY="1282.7" posZ="1141.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (3)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="247.7" posY="1282.7" posZ="1140.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (4)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="247.7" posY="1282.7" posZ="1141.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (5)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="250.8" posY="1280.7" posZ="1140.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (7)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="244.2" posY="1282.7" posZ="1141.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (8)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="244.2002" posY="1282.7002" posZ="1140.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (9)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="250.8" posY="1280.7" posZ="1141.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (10)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="254.3" posY="1280.7" posZ="1141.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_F_WOOD_3) (11)" interior="1" alpha="255" doublesided="false" model="1418" scale="1" dimension="0" posX="254.3" posY="1280.7" posZ="1140.5" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="1" dimension="0" alpha="255" posX="243.3" posY="1275.3" posZ="1140" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (LOW_COUCH_2) (1)" interior="1" alpha="255" doublesided="false" model="1764" scale="1" dimension="0" posX="239.39999" posY="1277.6" posZ="1139" rotX="0" rotY="0" rotZ="38.5"></object>
+    <object id="object (DYN_TABLE_03) (1)" interior="1" alpha="255" doublesided="false" model="1516" scale="1" dimension="0" posX="244.60001" posY="1275.4" posZ="1139.2" rotX="0" rotY="0" rotZ="0"></object>
+</map>

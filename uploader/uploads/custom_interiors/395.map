@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (gnhtelgrnd_lvs) (10)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2575.1001" posY="-1598" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (11)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2575.1001" posY="-1617.1" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (12)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2575.1001" posY="-1635.9" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (14)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2536" posY="-1598" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (15)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2536.1001" posY="-1617.1" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (16)" breakable="true" interior="3" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="2536.2" posY="-1635.9" posZ="2531.3999" rotX="0" rotY="0" rotZ="0"></object>
+</map>

@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (MaddDoggs10) (1)" breakable="true" interior="1" alpha="255" model="14421" doublesided="false" scale="1" dimension="0" posX="-98.1" posY="-199.8" posZ="1073.30005" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (1)" breakable="true" interior="1" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="-107.89999" posY="-200.3" posZ="1070.09998" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (xref_garagedoor) (1)" breakable="true" interior="1" alpha="255" model="2885" doublesided="false" scale="1" dimension="0" posX="-99" posY="-218.39999" posZ="1074.00049" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (rider1_door) (1)" breakable="true" interior="1" alpha="255" model="2959" doublesided="false" scale="1" dimension="0" posX="-106.9" posY="-218.3" posZ="1070.09998" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (shutter_vegas) (1)" breakable="true" interior="1" alpha="255" model="2938" doublesided="false" scale="1" dimension="0" posX="-93" posY="-212.10001" posZ="1072.69995" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shutter_vegas) (2)" breakable="true" interior="1" alpha="255" model="2938" doublesided="false" scale="1" dimension="0" posX="-108.19922" posY="-212.19922" posZ="1072.69995" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shutter_vegas) (3)" breakable="true" interior="1" alpha="255" model="2938" doublesided="false" scale="1" dimension="0" posX="-102.3" posY="-206.10001" posZ="1072.69995" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (shutter_vegas) (4)" breakable="true" interior="1" alpha="255" model="2938" doublesided="false" scale="1" dimension="0" posX="-102.6" posY="-218.3" posZ="1072.69995" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (shutter_vegas) (5)" breakable="true" interior="1" alpha="255" model="2938" doublesided="false" scale="1" dimension="0" posX="-98.69922" posY="-206.09961" posZ="1072.69995" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (2)" breakable="true" interior="1" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="-107.89941" posY="-200.2998" posZ="1074.59973" rotX="180" rotY="0" rotZ="0"></object>
+</map>
